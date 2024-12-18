@@ -41,8 +41,6 @@ Ensure you have the following installed on your machine:
 ---
 
 
-
-
 ### Installation
 
 1. Clone the repository:
@@ -73,5 +71,22 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+----
+## Author
+
+This project was created and maintained by **[Your Name]**.
+
+- **GitHub**: [your-github-username](https://github.com/your-github-username)
+- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+- **Portfolio**: [your-portfolio-website](https://your-website.com)
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## Credits
+
+Special thanks to everyone who contributed to this project and to the open-source community for their tools and libraries.
+
 
 
