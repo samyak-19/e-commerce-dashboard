@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Global Styles */
+/* body {
+  @apply font-sans bg-gray-50 text-gray-700;
+  transition: background-color 0.3s ease-in-out;
+}
+
+h1, h2, h3, h4, h5 {
+  @apply font-semibold text-dark;
+} */
