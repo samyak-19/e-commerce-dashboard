@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+# Sales Dashboard Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a dynamic and responsive **Sales Dashboard** built using React.js. The dashboard provides a variety of insights, including sales distribution, active users, payment gateways, yearly sales, and more. The project includes features like purposeful animations, multilingual support, user customization options, and real-time data updates.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Dynamic Components**: Interactive cards for displaying sales metrics.
+- **Purposeful Animations**:
+  - Smooth transitions and hover effects.
+  - Skeleton loaders during data fetch operations.
+  - Fade-in and slide-up animations for better user experience.
+- **Multilingual Support**: Integrated with `react-i18next` for English and Spanish translations.
+- **User Customization**: Rearrange or hide components to customize the dashboard layout.
+- **Real-Time Updates**: Automatically fetches and updates data every 10 seconds.
+- **Lazy Loading**: Components are lazy-loaded for better performance.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Technologies Used
+Frontend:
+React.js
+Tailwind CSS
+Chart.js
+React-i18next
+Backend:
+Node.js (API integration)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project Setup
 
-### `npm run build`
+Follow these steps to set up and run the project locally.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
+Ensure you have the following installed on your machine:
+- **Node.js** (v16 or later)
+- **npm** (v7 or later) or **yarn**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/sales-dashboard.git
+   cd sales-dashboard
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2.Install dependencies:
+```bash
+npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Running the Project
+1.Start the development server:
+```bash
+npm start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2.Open your browser and navigate to:
+```arduino
+http://localhost:3000
 
-## Learn More
+### Scripts
+Start Development Server: npm start
+Build for Production: npm run build
+Run Tests: npm test
+```
+---
+###Contributions
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contributions are welcome! Please fork the repository and submit a pull request.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+###License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-### Code Splitting
+----
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project was created and maintained by **Samyak Bahade**.
 
-### Analyzing the Bundle Size
+- **GitHub**: https://github.com/samyak-19/
+- **LinkedIn**: https://www.linkedin.com/in/samyak-bahade-712187286/
+- **Portfolio**: https://samyak-19.github.io/portfolio/
+- **Email**: samlinkin19@gmail.com
+  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## Credits
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Special thanks to everyone who contributed to this project and to the open-source community for their tools and libraries.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
