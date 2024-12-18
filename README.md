@@ -65,22 +65,25 @@ http://localhost:3000
 Start Development Server: npm start
 Build for Production: npm run build
 Run Tests: npm test
------
-Contributions
+```
+---
+###Contributions
+
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-License
+###License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ----
 ## Author
 
-This project was created and maintained by **[Your Name]**.
+This project was created and maintained by **Samyak Bahade**.
 
-- **GitHub**: [your-github-username](https://github.com/your-github-username)
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- **Portfolio**: [your-portfolio-website](https://your-website.com)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: https://github.com/samyak-19/
+- **LinkedIn**: https://www.linkedin.com/in/samyak-bahade-712187286/
+- **Portfolio**: https://samyak-19.github.io/portfolio/
+- **Email**: samlinkin19@gmail.com
+  
 
 ---
 
