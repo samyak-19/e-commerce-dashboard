@@ -82,6 +82,7 @@ This project was created and maintained by **Samyak Bahade**.
 - **GitHub**: https://github.com/samyak-19/
 - **LinkedIn**: https://www.linkedin.com/in/samyak-bahade-712187286/
 - **Portfolio**: https://samyak-19.github.io/portfolio/
+- - **e-commerce-dashboard**: https://e-commerce-dashboard-pi-liard.vercel.app/
 - **Email**: samlinkin19@gmail.com
   
 
